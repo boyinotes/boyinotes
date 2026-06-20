@@ -1,0 +1,7 @@
+baseURL = "https://boyinotes.com/"
+locale = "zh-cn"
+title = "博弈博客"
+theme = "stack"
+
+[params]
+  description = "投资 · 创业 · 人生"
